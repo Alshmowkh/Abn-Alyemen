@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="http://ad.ae.doubleclick.net/click;h=v8/3913/0/0/%2a/f;219002977;0-0;0;26919938;1-468/60;33868984/33886862/1;;~sscs=%3fhttp://www.aljazeera.mobiclip.com/"><img src="http://m1.emea.2mdn.net/viewad/1819595/AJM-MobiClip_468x60_Arb_01.jpg" border=0 alt="Click here to find out more!"></a>');

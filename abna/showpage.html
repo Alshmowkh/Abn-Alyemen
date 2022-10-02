@@ -1,0 +1,58 @@
+<html dir="rtl">
+<head><title>ضهور صفحة خاصة</title>
+<meta http-equiv="content-type" content="text-html;charset=windows-1256">
+<SCRIPT language=JavaScript>
+
+<!-- Begin
+var matrix_window;
+function MatrixWrite(string, bold, italic, speed) {
+var height = window.screen.height;
+var width = window.screen.width;
+var win_dimensions = "height = " + eval(height + 10) + ", width = " + eval(width + 30);
+matrix_window = window.open("blank.htm", "matrix_window", win_dimensions);
+matrix_window.document.open("text/html", "replace");
+var i;
+var timer = 0;
+if(matrix_window.moveTo)
+matrix_window.moveTo(-10, -30);
+if(matrix_window.resizeBy)
+matrix_window.resizeBy(0, 50);
+matrix_window.document.write("<body bgcolor=000000 text=00ff00 onBlur='self.focus()'>");
+matrix_window.document.write("<font face=system>");
+if(bold == true) matrix_window.document.write("<b>");
+if(italic == true) matrix_window.document.write("<i>");
+for(i = 0; i <= string.length; i++) {
+timer += (Math.random() * speed);
+setTimeout("matrix_window.document.write('" + string.charAt(i) + "');", timer);
+}
+timer += 2000;
+setTimeout("matrix_window.close()", timer);
+}
+var messages = new Array("لا تخاف ........ هالنافذة بتنتهي بعد شوي", "وش رايك بهالظلمــــــــة؟", "خلاص .. رحت فيها .. فـــــــــــــــــــورمــــــــــــــــــات ");
+function GetRndIndex() {
+return (parseInt(Math.random() * messages.length));
+}
+function WriteRndMsg(bold, italic, speed) {
+MatrixWrite(messages[GetRndIndex()], bold, italic, speed);
+}
+//  End -->
+</SCRIPT></head><body>
+<DIV align=center>
+<CENTER>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD align=middle bgColor=#f0f0f0><FONT size=3><A 
+      href="javascript:WriteRndMsg(false,%20false,%20750)">Normal text</A> 
+      <BR><A href="javascript:WriteRndMsg(true,%20false,%20750)"><B>Bold 
+      text</B></A> <BR><A 
+      href="javascript:WriteRndMsg(false,%20true,%20750)"><I>Italic 
+      text</I></A><BR><A 
+      href="javascript:WriteRndMsg(true,%20true,%20750)"><B><I>Bold and italic 
+      text</I></B></A> <BR><A 
+      href="javascript:MatrixWrite('Knock%20knock,%20Neo',%20false,%20false,%20750)">Normal 
+      string constant</A> </FONT></TD></TR></TBODY></TABLE></CENTER></DIV>
+<P a
+lign=center> </P>
+</body></html>
+

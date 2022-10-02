@@ -1,0 +1,1467 @@
+.StockMarketEuroDollar
+{color:Black;
+  font-size :15;
+ font-weight: bold; 
+ font-family :Arial ;  
+	}
+.GreatZero
+{ color:Green;
+  font-size :15;
+  font-weight: bold; 
+  font-family :Arial ;  
+	}
+.LessZero
+{ color:red;
+	 font-size :15;
+	    font-weight: bold;  
+	    font-family :Arial ;  
+	}
+.EqualZero
+{ color:Black;
+	 font-size :15;
+	font-weight: bold; 
+	font-family :Arial ;  
+	}
+	.liveParticipationTxtHumanRights
+{
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    FONT-FAMILY:  Arabic Transparent;
+}
+.StockName
+{ font-size :15;
+ color:black;
+    font-weight: bold; 
+    font-family :Arial ;  
+	}
+.StockNameLink
+{ font-size :15;
+ color:#0099ff;
+font-weight: bold; 
+font-family :Arial ;  
+
+	}
+.StockNameTicker
+{ font-size :15;
+ color:black;
+font-weight: bold; 
+font-family :Arial ;  
+	}
+.StockNameChildTicker
+{ font-size :15;
+font-weight: bold; 
+font-family :Arial ;  
+	}
+body
+{
+	margin: 0px;
+	margin-top: 5px;
+	direction: rtl;
+}
+
+.but {
+	BORDER-RIGHT: 1px ridge; BORDER-TOP: 1px ridge; FONT-SIZE: 8pt; BORDER-LEFT: 1px ridge; BORDER-BOTTOM: 1px ridge; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #B2B3A2
+}
+/*	--------------------------------------------	*/
+/*			Top Bar services combo start			*/
+/*	--------------------------------------------	*/
+.siteServiceComboFont 
+{	
+	font-weight: bold; 
+	font-size: 10pt; 
+	color:Black ;
+	font-family:Arabic Transparent;
+	text-decoration: none;
+	width:88px;
+}
+/*	--------------------------------------------	*/
+/*			Top Bar services combo end  			*/
+/*	--------------------------------------------	*/
+
+.siteServiceComboFont2 
+{	
+	font-weight: bold; 
+	font-size: 11pt; 
+	color:Black ;
+	font-family:Arabic Transparent;
+	text-decoration: none;
+}
+/*	--------------------------------------------	*/
+/*					GateSearch Start				*/
+/*	--------------------------------------------	*/
+.tblGateSearch
+{
+	width: 770px;
+	height: 48px;
+	background-image: url(/News/images/bg/header-bg.gif);
+	table-layout: fixed;
+}
+.lstGateSearch
+{
+     font-family: Arabic Transparent;
+     font-size: 9pt;
+     font-weight: bold;
+     width: 120px;
+} 
+.tdGate
+{
+	width: 290px;
+	height: 22px;
+}
+.tdSeach
+{
+	width: 480px;
+	height: 22px;
+	background-image: url(/News/images/bg/corner.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.tdGateSearchFooter1
+{
+	height: 2px;
+	background-color: #7F7F7F;
+}
+.tdGateSearchFooter2
+{
+	height: 10px;
+	background-color: #FFFFFF;
+}
+/*	--------------------------------------------	*/
+/*					GateSearch End				*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*					LogoBanner Start				*/
+/*	--------------------------------------------	*/
+.tblLogoBanner
+{
+	width: 770px;
+	height: 98px;
+	table-layout: fixed;
+}
+.tdLogo
+{
+	width: 159px;
+	height: 98px;
+}
+.tdBanner
+{
+	width: 611px;
+	height: 60px;
+	background-image: url(/News/images/bg/bannerbg.gif);
+	background-position: bottom;
+	text-indent: 85px;
+}
+.tdBannerHumanRights
+{
+	width: 611px;
+	height: 60px;
+	background-image: url(/News/images/bannerbgHumanRights.gif);
+	background-position: top;
+	text-indent: 85px;
+}
+.tdEmptyRight
+{
+	width: 102px;
+	height: 13px;
+	background-image: url(/News/images/bg/right-edge.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #ECC56A;
+}
+.tdEmptyLeft
+{
+	width: 171;
+	height: 13px;
+	background-image: url(/News/images/bg/left-edge.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-color: #ECC56A;
+}
+.tdDateTime
+{
+	text-indent: 6px;
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	
+}
+
+.tblDateTime
+{
+	/*border-left: 1px solid #FFCC66;*/
+	/*border-bottom: 1px solid #FFFFFF;*/
+	background-image: url(/News/images/bg/right-corner.gif);
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-color: #F6E8CD;
+}
+.tblDateTimeHumanRights
+{
+	background-color: #deece3;
+	width: 100%; /*422px*/
+	/*border-right: 1px solid #FFCC66;*/
+	border-bottom: 1px solid #5ba074;
+	
+	border-top: 0px;
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+}
+.tblDateTimeGaza
+{
+	width: 100%; /*422px*/
+	/*border-right: 1px solid #FFCC66;*/
+	border-bottom: 1px solid #b6b6b6;
+	
+	border-top: 0px;
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+}
+/*	--------------------------------------------	*/
+/*					LogoBanner End				*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*			MenuBodyInteractive Start		*/
+/*	--------------------------------------------	*/
+.tblMenuBodyInteractive
+{
+	width: 770px;
+	/*table-layout: fixed;*/
+}
+.tdMenu
+{
+	width: 159px;
+		
+}
+
+.tdRightColLeftBorder
+{
+	height : 100%;
+	border-left : 2px solid #ECC56B;
+}
+.tdRightColLeftBorderHumanRights
+{
+	height : 100%;
+	border-left : 2px solid #5ba074;
+}
+.tdBreadCrumbs
+{
+	width: 100%;
+}
+.breadcrumb
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;	
+	font-weight: bold;
+	color: #3366FF;
+	height: 26px;
+	text-decoration: none;
+}
+
+.breadcrumb4Searchresult
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;	
+	font-weight: bold;
+	color:#666666;
+	height: 26px;
+}
+
+.breadcrumb a
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;	
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+.breadcrumb .tdCurrent
+{
+	color : #666666;
+}
+.pagingBTN
+{
+	font-family:Traditional Arabic;
+	font-size: 14pt; 
+	text-decoration: none;
+	font-weight:normal;
+	color: blue;
+	width:25px;
+	text-align:right
+}
+.tdPageServices
+{
+	/*width: 100px;
+	vertical-align: sub;*/
+}
+.tdMainStory
+{
+	/*border-left: 2px solid #ECC56B;*/
+}
+.tdBody
+{
+	width: 100%; /*422px*/
+	/*border-right: 1px solid #FFCC66;*/
+	border-bottom: 2px solid #ECC56B;
+	
+	border-top: 0px;
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+}
+.tdBodyHumanRights
+{
+	width: 100%; /*422px*/
+	/*border-right: 1px solid #FFCC66;*/
+	border-bottom: 2px solid #5ba074;
+	
+	border-top: 0px;
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+}
+.tdBodyGazaUnderFire
+{
+	width: 100%; /*422px*/
+	/*border-right: 1px solid #FFCC66;*/
+	border-bottom: 2px solid #b6b6b6;
+	
+	border-top: 0px;
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+}
+.tdBody2
+{
+	width: 100%; /*422px*/
+	border-left: 2px solid #FFCC66;
+	border-bottom: 2px solid #ECC56B;
+	border-top: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.tdTest
+{
+	width: 100%; /*422px*/
+	height : 100%;
+	border-left: 2px solid #ECC56B;
+	border-bottom: 2px solid #ECC56B;
+	border-top: 0px;
+}
+.titleshortnews
+{
+    font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: right;
+	text-indent: 1px;
+	color: black;
+	list-style : square outside;
+	text-decoration: none;
+}
+.tdBreakingNews
+{
+	/*RajaiW@29.06.2003*/
+	/*height: 26px;*/
+}
+.tdInteractive
+{
+	width: 189px;
+	height : 100%;
+	border-left: 2px solid #ECC56B;
+	border-bottom: 2px solid #ECC56B;
+}
+.tdInteractiveHumanRights
+{
+	width: 189px;
+	height : 100%;
+	border-left: 2px solid #5ba074;
+	border-bottom: 2px solid #5ba074;
+}
+.tdInteractiveGazaUnderFire
+{
+	width: 189px;
+	height : 100%;
+	border-left: 2px solid #b6b6b6;
+	border-bottom: 2px solid #b6b6b6;
+}
+.tdInteractiveL4
+{
+	height : 100%;
+	border-left: 2px solid #ECC56B;
+	border-bottom: 2px solid #ECC56B;
+}
+.tdInteractiveL4HumanRights
+{
+	height : 100%;
+	border-left: 2px solid #5ba074;
+	border-bottom: 2px solid #5ba074;
+}
+.tdInteractiveL4GazaUnderFire
+{
+	height : 100%;
+	border-left: 2px solid #b6b6b6;
+	border-bottom: 2px solid #b6b6b6;
+}
+.tdInteractiveL4Search
+{
+	height : 100%;
+	border-bottom: 2px solid #ECC56B;
+}
+
+.tdHeadline
+{
+	font-family: Arabic Transparent;
+	font-size: 14pt;
+	font-weight: bold;
+	color: #000000;
+	height: 25px;
+}
+.tdSubHeadline
+{
+	font-family: Arabic Transparent;
+	font-size: 13pt;
+	font-weight: bold;
+	color: #666666;
+}
+.tdArticleBody
+{
+	font-family: Arabic Transparent;
+	font-size: 12pt;
+}
+.tdSourceAgency
+{
+	text-align:left;
+	font-family: Arabic Transparent;
+	font-weight: bold;
+	font-size: 13pt;
+}
+.lblSourceAgency
+{
+	text-align:left;
+	font-family: Arabic Transparent;
+	font-weight: bold;
+	font-size: 13pt;
+}
+.tdSourceDate
+{
+	text-align:left;
+	font-family: Arabic Transparent;
+	font-weight: bold;
+	font-size: 8pt;
+	width: 90%;
+}
+
+/*	--------------------------------------------	*/
+/*			MenuBodyInteractive End		*/
+/*	--------------------------------------------	*/
+.hrArticles
+{
+	width: 100%; 
+	height: 1px; 
+	border: 1px solid #CCCCCC;
+	table-layout:fixed;
+}
+/*	--------------------------------------------	*/
+/*        		Main Story Start  					*/
+/*	--------------------------------------------	*/
+.mainStoryTDHeight
+{
+	height : 40px;
+}
+.bdytitle
+{
+	font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #0035FC;
+	text-align: right;
+	text-indent: 1pt;
+	text-decoration:none;
+	
+}
+.bdytitle a
+{
+	font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #0035FC;
+	text-align: right;
+	text-indent: 1pt;
+	text-decoration:none;
+}
+.bdySummary
+{
+	font-family: Arabic Transparent;
+	font-size: 15px;
+	font-weight: normal;
+	color: #000000;
+	text-align: right;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+	line-height: normal;
+}
+.bdysubstory
+{
+	font-family: Arabic Transparent;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	text-align: right;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+	line-height: normal;
+	filter: Shadow(Color=gray, Direction=right);
+	vertical-align: top;
+}
+
+.bdyasubnews , .bdyasubnews a
+{
+    font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: right;
+	text-indent: 1px;
+	color: #3366FF;
+	list-style : square outside;
+	text-decoration: none;
+}
+.titleasubnews , .titleasubnews a
+{
+    font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: right;
+	text-indent: 1px;
+	color: #3366FF;
+	list-style : square outside;
+	text-decoration: none;
+}
+/*	--------------------------------------------	*/
+/*        		Main Story End  					*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*						Menu Start					*/
+/*	--------------------------------------------	*/
+.mnuHeadOpened
+{
+	background-image: url(/News/images/icons/menuheader-opened.gif);
+	width: 159px;
+	height: 24px;
+	cursor: hand;
+	cursor: pointer;
+}
+.mnuHeadOpenedHumanRights
+{
+	background-image: url(/News/images/menuheader-openedHumanRights.gif);
+	width: 159px;
+	height: 24px;
+	cursor: hand;
+	cursor: pointer;
+}
+.mnuHeadClosed
+{
+	background-image: url(/News/images/icons/menuheader-closed.gif);
+	width: 159px;
+	height: 24px;
+	cursor: hand;
+	cursor: pointer;
+}
+.mnuHeadClosedHumanRights
+{
+	background-image: url(/News/images/menuheader-closedHumanRights.jpg);
+	width: 159px;
+	height: 24px;
+}
+.mnuHeadClosedGazaUnderFire
+{
+	background-image: url(/News/images/Gaza/menuheader-opened.gif);
+	width: 159px;
+	cursor: hand;
+	cursor: pointer;
+	height: 24px;
+}
+.mnuHeadOpenedHumanRights
+{
+	background-image: url(/News/images/menuheader-openedHumanRights.gif);
+	width: 159px;
+	height: 24px;
+	cursor: hand;
+	cursor: pointer;
+}
+.mnuHeadOpenedGazaUnderFire
+{
+	background-image: url(/News/images/Gaza/menuheader-opened.gif);
+	width: 159px;
+	height: 24px;
+	cursor: hand;
+	cursor: pointer;
+	cursor: hand;
+}
+.mnuBody
+{
+	width: 159px;
+	background-color: #EBB701;
+}
+.mnuBodyHumanRights
+{
+	width: 159px;
+	background-color: #7abb9d;
+}
+.mnuBodyGazaUnderFire
+{
+	width: 159px;
+	background-color: #9a9a9a;
+}
+.mnuCurrentChannelHeader
+{
+	height: 6px;
+	background-color: #EFC324;
+}
+.mnuCurrentChannelHeaderHumanRights
+{
+	height: 6px;
+	background-color: #a7c0b8;
+}
+.mnuCurrentChannelHeaderGazaUnderFire
+{
+	height: 6px;
+	background-color: #9a9a9a;
+}
+.mnuCurrentChannel
+{
+	height: 22;
+	background-color: #EFC324;
+	font-family:  Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 20px;
+	padding-right: 3px;
+	color: #000000;
+}
+.mnuCurrentChannelHumanRights
+{
+	height: 22;
+	background-color: #a7c0b8;
+	font-family:  Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 20px;
+	padding-right: 3px;
+	color: #000000;
+}
+.mnuCurrentChannelGazaUnderFire
+{
+	height: 22;
+	background-color: #9a9a9a;
+	font-family:  Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 20px;
+	padding-right: 3px;
+	color: #000000;
+}
+.mnuArrowOn
+{
+	height: 20px;
+	width: 20px;
+	background-image: url(/News/images/icons/redarrow.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	font-size: 10px;
+}
+.mnuArrowOff
+{
+	height: 20px;
+	width: 20px;
+	font-size: 10px;
+}
+.toggleSignCollapse
+{	
+	height: 20px;
+	width: 20px;
+	background-image: url(/News/images/icons/category-collapse.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	font-size: 10px;
+	cursor: pointer;
+}
+
+.toggleSignExpand
+{	
+	height: 20px;
+	width: 20px;
+	background-image: url(/News/images/icons/category-expand.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	font-size: 10px;
+	cursor: pointer;
+}
+
+.mnuSeparator
+{
+	background-color: #C99C01;
+	height: 1px;
+	width: 159;
+}
+.mnuSeparatorHumanRights
+{
+	background-color: #689f86;
+	height: 1px;
+	width: 159;
+}
+.mnuSeparatorGazaUnderFire
+{
+	background-color: #b6b6b6;
+	height: 1px;
+	width: 159;
+}
+.mnuChannel
+{
+	width: 139px;
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	padding-right:3px;
+	line-height: 20px;
+	color: #000000;
+}
+.mnuChannel a, .mnuCurrentChannel a
+{
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #000000;
+	line-height: 20px;
+	padding-right:3px;
+	text-decoration: none;
+}
+.mnuChannelHumanRights a, .mnuCurrentChannelHumanRights a
+{
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #000000;
+	line-height: 20px;
+	padding-right:3px;
+	text-decoration: none;
+}
+.mnuChannelGazaUnderFire a, .mnuCurrentChannelGazaUnderFire a
+{
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #000000;
+	line-height: 20px;
+	padding-right:3px;
+	text-decoration: none;
+}
+.mnuFooter
+{
+	height: 6px;
+	background-color: #E1A400;
+}
+.mnuFooterHumanRights
+{
+	height: 6px;
+	background-color: #5ba074;
+}
+.mnuFooterGazaUnderFire
+{
+	height: 6px;
+	background-color: #838383;
+}
+/*	--------------------------------------------	*/
+/*						Menu End						*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*					SectionName Start			*/
+/*	--------------------------------------------	*/
+.lblSectionName
+{
+	font-family: Arabic Transparent;
+	font-size: 18pt;
+	font-weight: bold;
+	color: #000000;
+	text-indent: 2px;
+}
+
+/*	--------------------------------------------	*/
+/*					SectionName End 			*/
+/*	--------------------------------------------	*/
+
+/* cartoon search result start*/
+.lblCartoonSection
+{
+	font-family: Arabic Transparent;
+	font-size: 13pt;
+	font-weight: bold;
+	color: #000000;
+	text-indent: 2px;
+}
+/* cartoon search result end*/
+
+/*	--------------------------------------------	*/
+/*					Related Start					*/
+/*	--------------------------------------------	*/
+.tblRelated
+{
+	background-color: #FFFAE5;
+	/*background-color: #FBF2E1;
+	padding: 5px;*/
+}
+.tblRelatedHumanRights
+{
+	background-color: #deece3;
+	/*background-color: #FBF2E1;
+	padding: 5px;*/
+}
+.tblRelatedHumanRights a
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+
+.tblRelatedHeader
+{
+	/*background-color: #F7EBC6;*/
+	background-color: #F6E8C5
+}
+.tblRelatedHeaderHumanRights
+{
+	/*background-color: #F7EBC6;*/
+	background-color: #deece3
+}
+.tblRelated a
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+.bullet
+{
+	color: #3366FF;
+	font-size: 11pt;
+	font-weight: bold; 
+	font-family: Arabic Transparent;
+	text-indent: 5px;
+}
+/*	--------------------------------------------	*/
+/*					Related End						*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*				Summary	Related Start				*/
+/*	--------------------------------------------	*/
+.tblSumaryRelated
+{
+	background-color: #FFF7E7;
+	width: 186px;
+}
+.tblSumaryRelatedHumanRights
+{
+	background-color: #deece3;
+	width: 186px;
+}
+.tblSumaryRelated a
+{
+	font-weight: bold;
+	font-size: 13px;
+	color: #3366ff;
+	/*text-indent:5px;*/
+	padding-right: 5px;
+	font-family: Arabic Transparent;
+	text-decoration: none;
+}
+.tblSumaryRelatedHumanRights a
+{
+	font-weight: bold;
+	font-size: 13px;
+	color: #3366ff;
+	/*text-indent:5px;*/
+	padding-right: 5px;
+	font-family: Arabic Transparent;
+	text-decoration: none;
+}
+
+.titleasubnewsHumanRights , .titleasubnewsHumanRights a
+{
+    font-weight: bold;
+	font-size: 13px;
+	color: #3366ff;
+	/*text-indent:5px;*/
+	padding-right: 5px;
+	font-family: Arabic Transparent;
+	text-decoration: none;
+}
+
+/*	--------------------------------------------	*/
+/*				Summary	Related End					*/
+/*	--------------------------------------------	*/
+
+
+/*	--------------------------------------------	*/
+/*					Footer Start						*/
+/*	--------------------------------------------	*/
+.tblFooter
+{
+	width: 770px;
+}
+.tblFooterChannels
+{
+	height: 30px;
+	vertical-align: sub;
+}
+.tblFooterChannels a
+{
+	font-family:Traditional Arabic;/* Arabic Transparent;*/
+	font-size: 11pt;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+.tdFooterChannelsSeparator
+{
+	font-family: Arabic Transparent;
+	font-size: 11pt;
+	color: FFCC66;
+}
+.tdHeaderPortalChannelsSeparator
+{
+	font-family: Arabic Transparent;
+	font-size: 8pt;
+	color:Blue ;
+}
+.tblFooterCopyright
+{
+	font-family: Traditional Arabic;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	height: 40px;
+	vertical-align: super;
+}
+.tblFooterCopyright a
+{
+	font-family:Traditional Arabic;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+/*	--------------------------------------------	*/
+/*					Footer End						*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*			Banner120x60 Start					*/
+/*	--------------------------------------------	*/
+.divBanner120x60
+{
+	height: 80px;
+	/*background-color: #F6E8C5;*/
+	padding-bottom: 3px;
+	/*border-left: 2px solid #ECC56B;*/
+}
+
+/*	--------------------------------------------	*/
+/*			Banner120x60 End					*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*				SendArticle Start					*/
+/*	--------------------------------------------	*/
+.tblEmailSend
+{
+	width: 460px;
+	margin: 10px;
+}
+.txtEmailLabel
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 12pt; 
+	width: 175px;
+}
+.txtFeedbackLabel
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 14pt; 
+}
+.txtEmailFields
+{
+	width: 235px;
+	border: 1ps solid #777777;
+}
+.txrEmailFields
+{
+	width: 420px;
+	height: 125px;
+	border: 1ps solid #777777;
+}
+.btnEmail
+{
+	width: 75px;
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 10pt; 
+	/*border: 1px solid;*/
+}
+.errMsg
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 11pt;
+	color: #FF0000;
+}
+/*	--------------------------------------------	*/
+/*				SendArticle End					*/
+/*	--------------------------------------------	*/
+
+/*	-------------------Reyad Murrar ------------*/
+.itemGridTile 
+{	
+	font-weight: bold; 
+	font-size: 10pt; 
+	color: #3165FF; 
+	font-family: Traditional Arabic;
+	text-decoration: none;
+}
+
+.itemGridOther 
+{	
+	font-weight: bold; 
+	font-size: 10pt; 
+	color: #000000; 
+	font-family: Arabic Transparent; 
+	text-decoration: none;
+}
+
+.tdSearchBody
+{
+	font-size: 15px; 
+	font-family: Arabic Transparent; 
+	padding-left: 5px;
+	padding-right: 5px;  
+	background-color:"gainsboro";
+}
+.tdAdvSearchBody
+{
+	
+	border-bottom: 10px solid #FFCC66;
+	border-right: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+/*	--------------------------------------------	*/
+/*				ChildSearch Start					*/
+/*	--------------------------------------------	*/
+.Search
+{
+	font-weight: bold; 
+	FONT-SIZE: 12pt; 
+	COLOR: black; 
+	font-family: Traditional Arabic;
+	text-decoration: none;
+}
+.SiteServicesMenu
+{
+	font-weight: bold; 
+	FONT-SIZE: 12pt; 
+	COLOR: black; 
+	font-family: Traditional Arabic;
+	text-decoration: none;	
+}
+.StockFont
+{ 
+	font-weight: bold; 
+	FONT-SIZE: 11.5pt; 
+	COLOR:Blue;
+	font-family:Arabic Transparent ;
+	text-decoration: none;
+}
+.tblChildSearch
+{
+	width: 159px;
+	background-color: #F3D798;
+}
+
+.tdChildSearchBody
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;
+}
+.tdMainSearchBody
+{	
+	font-family: Traditional Arabic;
+	font-size: 11pt;
+	font-weight: bold;	
+	color: #FFFFFF;
+	text-decoration: none;
+}
+/*	--------------------------------------------	*/
+/*				ChildSearch End					*/
+/*	--------------------------------------------	*/
+
+/*	--------------------------------------------	*/
+/*				Fixed latest news start				*/
+/*	--------------------------------------------	*/
+.lastupdated
+{
+	font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #0035FC;
+	text-decoration: none;
+	padding-right:4px;
+	
+}
+
+.LatestNewsTable
+{
+	background-color:"#FBF2E1"
+}
+.LatestNewsTableHumanRights
+{
+	background-color:"#deece3"
+}
+/*	--------------------------------------------	*/
+/*				Fixed latest news end				*/
+/*	--------------------------------------------	*/
+
+
+/* interactive area*/
+.Menu_Head 
+{ 
+	filter:alpha(opacity=100,finishopacity=80,style=1);
+	font-weight: bold; 
+	cursor: pointer; 
+	width: 100%; 
+}
+.Menu_Items 
+{ 
+	filter:alpha(opacity=100); 
+	background-color: #EAF0FC; 
+	padding: 10; 
+	width: 100%; 
+	display: block;
+}
+.interFontLink 
+{ 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 11pt; 
+	COLOR: black; 
+	FONT-FAMILY: 'Traditional Arabic'; 
+	TEXT-DECORATION: none;
+}
+/*	----------------- Reyad Murrar-------------*/
+
+.FactsNumbers
+{
+	font-family: Arabic Transparent;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+.lblCartoonPageSectionName
+{
+	font-family: Arabic Transparent;
+	font-size: 13pt;
+	font-weight: bold;
+	color: #000000;	
+	vertical-align: super;
+}
+.lblCartoonPageSearchName
+{
+	font-family: Arabic Transparent;
+	font-size: 13pt;
+	font-weight: bold;
+	color: #000000;	
+}
+
+.lblCartoonPageSearchDates
+{
+	font-family: Arabic Transparent;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #000000;	
+}
+
+/*	--------------------------------------------	*/
+/*				cartoon start				        */
+/*	--------------------------------------------	*/
+.flyoutLink
+{
+    CURSOR: hand;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    FONT-SIZE: 70%;
+    PADDING-LEFT: 6px;
+    PADDING-RIGHT: 25px;
+    PADDING-TOP: 1px
+}
+/*	--------------------------------------------	*/
+/*				cartoon end         				*/
+/*	--------------------------------------------	*/
+
+
+/*	--------------------------------------------	*/
+/*				stock start				*/
+/*	--------------------------------------------	*/
+.stock 
+{
+	background: #FDEFBE url(/News/Images/News/stock-bg.gif) repeat-x 40px;
+}
+/*	--------------------------------------------	*/
+/*				stock end				*/
+/*	--------------------------------------------	*/
+
+.mmbtl
+{
+	font-size: 10pt;
+	color: black;
+	/*text-indent: -20px;*/
+	padding-right: 5px;
+	font-family: "Arabic Transparent";
+	font-weight: bold;
+}
+/*Start Live Participations*/
+.livePartLinkHumanRights
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 11pt; 
+	text-decoration: none;
+	color: blue
+}
+.LivePartLinkDarkBGHumanRights
+{
+	background-color:#add0ba;
+}
+.LivePartLinkBGHumanRights
+{
+	background-color:#add0ba;
+}
+.LivePartLinkBG
+{
+	background-color:#FBF3E1;
+}
+.LivePartLinkDarkBG
+{
+	background-color:#FBF3E1;
+}
+
+.liveParticipationTxt
+{
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    FONT-FAMILY:  Arabic Transparent	;
+}
+.liveParticipationBG
+{
+	background-color:#E5EAFB;
+}
+
+.searchTable
+{
+	border-left: 2px solid #ECC56B;
+}
+.searchTable span
+{	
+	width:138px;
+}
+.searchTableHumanRights
+{
+	border-left: 2px solid #5ba074;
+}
+.searchTableGazaUnderFire
+{
+	border-left: 2px solid #b6b6b6;
+}
+/*End Live Participations*/
+/*Start ReadOnly Services*/
+.StockCurrencyTable
+{
+	border : 1px solid #E5E5E5;
+}
+.StockCurrencyTitle
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 14pt; 
+}
+.StockCurrency
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 10pt; 
+}
+
+/*End ReadOnly Services*/
+
+/* ------------------------------------------------ */
+/*		Clases related to migrated data             */
+/* ------------------------------------------------ */
+.imgcaption
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: 'Arabic Transparent';
+    TEXT-DECORATION: none
+}
+
+
+.TextCaption
+{
+    FONT-SIZE: 12pt;
+    WIDTH: 120px;
+    FONT-FAMILY: 'Arabic Transparent';
+    TEXT-ALIGN: center
+}
+
+.CAPTION
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    WIDTH: 120px;
+    COLOR: darkred;
+    FONT-FAMILY: 'Arabic Transparent';
+    BACKGROUND-COLOR: #cdcdcd
+}
+
+.tdNewsSearchBody
+{
+	padding-right: 10px;
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;	
+	color:Black;
+	text-decoration: none;
+}
+.tdNewsSearch
+{	
+	width: 159px;
+	background-color: #F3D798;
+	border-left : 2px solid #ECC56B;
+}	
+.tdNewsSearchHumanRights
+{	
+	width: 159px;
+	background-color: #add0ba;
+	border-left : 2px solid #5ba074;
+}	
+.tdNewsSearchGazaUnderFire
+{	
+	width: 159px;
+	background-color: #add0ba;
+	border-left : 2px solid #b6b6b6;
+}	
+/************************ SERVICES STYLE *********************************/
+body
+{
+	margin: 0px;
+	margin-top: 3px;
+	margin-right: 5px;
+	direction: rtl;
+}
+
+.DGSiteServicesMenu
+{
+	font-weight: bold; 
+	FONT-SIZE: 11pt; 
+	COLOR:#1E56FF ; 
+	font-family: Traditional Arabic;
+	text-decoration: none;
+	/*padding-right:5px;*/
+}
+
+.DGSiteServicesMenuBlak
+{
+	font-weight: bold; 
+	FONT-SIZE: 11pt; 
+	COLOR:#000000 ; 
+	font-family: Traditional Arabic;
+	text-decoration: none;
+	padding-right:5px;
+}
+
+.votetitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color: black;
+	font-family: 'Arabic Transparent';
+	text-decoration: none;
+	padding-right: 5px;
+}
+
+.voteHeader
+{
+	font-weight: bold;
+	font-size: 12pt;
+	color: black;
+	font-family: 'Arabic Transparent';
+	text-decoration: none;
+}
+
+.votetitleLink
+{
+	font-weight: bold;
+	font-size: 11pt;
+	color: #003CFF;
+	font-family: 'Arabic Transparent';
+	text-decoration: none;
+	padding-right:5px;
+}
+
+.voteSap
+{
+	background-color: #AEC9F6;	
+	height: 1px;
+}
+
+.voteSap2
+{
+	background-color: #CCDCF9;	
+	height: 1px;
+}
+
+.servicesTable
+{
+	background-color: #EAF0FC;
+}
+
+.partBackGround
+{
+	background-image: url(/news/Images/News/participations-header-bg.gif);
+}
+
+.partbgColor
+{
+	background-color: "#EFF3FF";
+}
+/*******************************************************************/
+
+/*Header Styles*/
+.hdrBg02 {
+	background-image: url(/News/Images/all/topBgImg.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.hdrBg01 {
+	background-image: url(/News/Images/all/linksBelowBgImg.jpg);
+	background-repeat: repeat-x;
+}

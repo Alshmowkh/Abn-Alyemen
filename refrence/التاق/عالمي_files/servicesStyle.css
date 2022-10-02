@@ -1,0 +1,1084 @@
+
+
+.tblFirstLevel
+{
+	width: 460px;
+	height: 30px;
+}
+
+.tblSecondLevel
+{
+ padding-right: 20px
+}
+
+.unSubScribeTble
+{
+ padding-right: 20px
+}
+
+.lblText
+{
+	font-family: Arabic Transparent	;
+	font-weight:bold; 
+	font-size: 10pt; 
+	line-height: 20px;
+}
+
+.lblText3
+{
+	font-family: Arabic Transparent	;
+	font-weight:normal; 
+	font-size: 12pt; 
+	line-height: 20px;
+}
+.lblText2
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 12pt; 
+	width: 85px;
+	line-height: 20px;
+}
+
+.lblSubText
+{
+	font-family: Arabic Transparent	;
+	font-weight: normal; 
+	font-size: 11pt; 
+	width: 85px;
+	line-height: 20px;
+	/*padding-right: 10px;*/
+}
+
+.lblSubText2
+{
+	font-family: Arabic Transparent	;
+	font-weight: Bold; 
+	font-size: 11pt; 
+	width: 85px;
+	line-height: 20px;
+	/*padding-right: 10px;*/
+}
+
+.searchBTN
+{
+
+	font-size: 11pt;
+}
+
+.searchBack
+{
+	background-image : url(/Gateway/images/search_bk.jpg);
+}
+.lblAction
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 10pt; 
+	text-align:right;
+	line-height:20px;
+}
+
+txtFields
+{
+	width: 20px;
+	height: 125px;
+	border-style : solid;
+	border-width : 1;
+	border-color : #777777;
+}
+
+.btnParticipate
+{
+	width: 75px;
+	border: 1px solid;
+}
+
+.introduction
+{
+	font-family: Arabic Transparent;
+	font-weight: bold;
+	font-size: 11pt;
+	text-align : right;
+	width: 420px;
+	
+}
+
+.tblUnSubscripe
+{
+	width: 700px;
+}
+.feedbackTxt
+{
+	font-family: Arabic Transparent	;
+	FONT-WEIGHT: normal;
+    FONT-SIZE: 12pt;
+}
+.errMsg
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 11pt;
+	padding-left: 10px;
+}
+.lbllnk
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 10pt; 
+	text-decoration: none;
+	color: blue;
+	cursor: hand;
+
+}
+.normalTextTitleLink
+{
+	line-height:20px;
+}
+
+.blueicone
+{
+	margin-right:10px;
+	margin-left: 5px
+}
+
+.servicesAdTR
+{
+	BACKGROUND-COLOR: #0833B5;
+}
+.lblDropDownText
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 10pt; 
+	border-style : solid;
+	border-width : 1;
+
+
+}
+.livePartLink
+{
+	font-family: Arabic Transparent	;
+	font-weight: bold; 
+	font-size: 11pt; 
+	text-decoration: none;
+	color: blue
+}
+.LivePartLinkBG
+{
+	background-color:#F3D99F;
+}
+.LivePartLinkDarkBG
+{
+	background-color:#F3D99F;
+}
+
+.liveParticipationTxt
+{
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    FONT-FAMILY:  Arabic Transparent	;
+}
+.liveParticipationBG
+{
+	background-color:#EBEBEB;
+}
+.epiPartsTRhdr {
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	TEXT-DECORATION: none;
+	COLOR: #000000;
+	padding-right: 5px;
+}
+.tdhdrbdy {
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #99AEEF;
+	padding-right: 5px;
+}
+.tdbdy {
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	TEXT-DECORATION: none;
+	BACKGROUND-COLOR: #E5EBFB;
+	COLOR: #000000;
+	padding-right: 5px;
+}
+.epiPartsPageLink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Arabic Transparent';
+    text-decoration : none;
+    COLOR: #000000;
+    background-color: #D6D3CE;
+    border-color : #848284;
+    border-width : 1 ;
+    height : 21px;
+    text-align: center;
+    padding: 3px;
+}
+.epiPartsHdr
+{
+	FONT-FAMILY: Arabic Transparent;
+	color: #333333;
+	FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+}
+.lblHeader
+{
+	FONT-SIZE: 14pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+}
+.lblHeader2
+{
+	FONT-SIZE: 13pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+}
+
+.lblHeader3
+{
+	FONT-SIZE: 13pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	line-height: 25px;
+}
+.hrArticles
+{
+	height: 1px; 
+	border: 1px solid #CCCCCC;
+	text-align: center;
+}
+a.SiteServices
+{
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+	list-style: square outside;
+	cursor: hand;
+}
+.registrationSep
+{
+	PADDING-BOTTOM: 2px;
+	PADDING-TOP: 2px;
+	HEIGHT: 1px;
+	background-color: #c7d8fb;
+}
+/****/
+
+/**CMS Support Pages**/
+/*A 
+{
+	COLOR: #000080;
+	TEXT-DECORATION: none;
+	FONT-SIZE: 10pt;
+	FONT-FAMILY: Tahoma;
+}
+A:link 
+{
+	COLOR: #000080;
+	TEXT-DECORATION: none;
+	FONT-FAMILY: Tahoma;
+}
+A:hover 
+{
+	COLOR: #CC4901;
+	TEXT-DECORATION: none underline;
+	FONT-FAMILY: Tahoma;
+}*/
+.hdline 
+{
+	font-size: 14pt;
+	color: CC4901;
+	text-decoration: none;
+}
+.normal 
+{
+	FONT-SIZE: 10pt;
+	FONT-FAMILY: Tahoma;
+	color: #333333;
+	font-weight: normal;
+}
+.but 
+{
+	BORDER-RIGHT: 1px ridge; BORDER-TOP: 1px ridge; FONT-SIZE: 8pt; BORDER-LEFT: 1px ridge; BORDER-BOTTOM: 1px ridge; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #B2B3A2
+}
+.trhdr 
+{
+	FONT-SIZE: 10pt; font-weight: bold; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #E7EBBD;
+}
+.reultsHeaderTR
+{
+	BACKGROUND-COLOR: #E0E0E0;
+}
+.resultsHeader
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	padding-left: 10px;
+	color:#000000
+}
+
+.resultsHeader2
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	color:#9D3E0E
+}
+
+.trbdy 
+{
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #EEF0D9;
+}
+.inputLong 
+{
+	BORDER-RIGHT: #999999 1px solid; 
+	BORDER-TOP: #999999 1px solid; 
+	FONT-SIZE: 8pt;
+	BORDER-LEFT: #999999 1px solid;
+	BORDER-BOTTOM: #999999 1px solid;
+	FONT-FAMILY: Arial (Arabic);
+	background-color: #f8f8f8;
+	width:180px;
+}
+.firstlvlTable
+{
+	background-color: #ebf1fd;
+	border-color: #C7D8FB;
+		border-style:solid;
+	border-width:1px;
+
+	}
+.firstlvlTable2
+{
+	background-color: white;
+	border-color: #C7D8FB;
+	border-style:dotted;
+	border-width:1px;
+	}
+	
+.searchTRhdr
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #F0F0F0;
+    COLOR: #000000;
+}
+
+.SearchResultsText
+{
+	FONT-SIZE: 11pt;
+	font-weight:bold;
+	FONT-FAMILY:Arabic Transparent;
+    COLOR: #000000;
+	text-align:center;
+	line-height: 20px;
+	BORDER-BOTTOM: #E0E0E0 1px solid;
+}
+
+.SearchResultsText2
+{
+	FONT-SIZE: 11pt;
+	font-weight:bold;
+	FONT-FAMILY:Arabic Transparent;
+    COLOR: #000000;
+	text-align:right;
+	vertical-align:top;
+	BORDER-BOTTOM: #E0E0E0 1px solid;
+	text-decoration:none;
+}
+.SearchResultHeader {
+	font-weight: bold;
+	font-size: 11pt;
+	color: black;
+	font-family: 'Arabic Transparent';
+	text-decoration: none;
+	padding-right: 5px;
+}
+.SearchResult {
+	font-weight: bold; 
+	font-size: 10pt; 
+	color:Black ;
+	font-family:Arabic Transparent;
+	text-decoration: none;
+}
+
+.SearchResult a {
+	font-weight: bold;
+	font-size: 11pt;
+	color: #3366FF;
+	font-family: 'Arabic Transparent';
+	text-decoration: none;
+	padding-right:5px;
+}
+
+.SearchResultsText3
+{
+	FONT-SIZE: 10pt;
+	font-weight:bold;
+	FONT-FAMILY:Arabic Transparent;
+    COLOR: #000000;
+	text-align:right;
+	vertical-align:top;
+	BORDER-BOTTOM: #E0E0E0 1px solid;
+	text-decoration:none;
+}
+
+.searchText
+{
+	color: black;
+	font-size: 11pt;
+	font-weight:bold;
+	font-family:Arabic Transparent;
+}
+
+.MainTitle
+{
+	color: #000000;
+	font-size: 20pt;
+	font-weight:bold;
+	font-family:Arabic Transparent;
+}
+
+.SubTitle
+{
+	color: #000000;
+	font-size: 12pt;
+	font-weight:bold;
+	font-family:Arabic Transparent;
+	line-height: 25px;
+}
+
+.SubTitle2
+{
+	color: #000000;
+	font-size: 10pt;
+	font-weight:bold;
+	font-family:Arabic Transparent;
+	line-height: 25px;
+}
+
+.searchTR
+{
+	BACKGROUND-COLOR: #F0F0F0;
+}
+
+.pagingTD
+{ 
+	text-align:right;
+}
+
+.pagingTbl
+{
+	width:360px;
+}
+
+.pagingBTN
+{
+	font-family:Traditional Arabic;
+	font-size: 13pt; 
+	text-decoration: none;
+	font-weight:normal;
+	color: blue;
+	width:30px;
+	text-align:right
+}
+	
+a.archivePaging
+{
+	font-family:Arabic Transparent;
+	font-size: 12pt; 
+	text-decoration: none;
+	font-weight:bold;
+	color: blue;
+	text-align:right
+}
+
+.archivePaging
+{
+	font-family:Arabic Transparent;
+	font-size: 12pt; 
+	text-decoration: none;
+	font-weight:normal;
+	text-align:right
+}
+
+a.archivePagingGroups
+{
+	font-family:Arabic Transparent;
+	font-size: 12pt; 
+	text-decoration: none;
+	font-weight:bold;
+	color: blue;
+	text-align:right
+}
+
+.archivePagingGroups2
+{
+	font-family:Arabic Transparent;
+	font-size: 12pt; 
+	text-decoration: none;
+	font-weight:normal;
+	text-align:right
+}
+
+.tdMainSearchBody
+{	
+	font-family: Traditional Arabic;
+	font-size: 11pt;
+	font-weight: bold;	
+	color: #FFFFFF;
+	text-decoration: none;
+}	
+.buttonStyle
+{
+	cursor: hand;
+}
+.tdNewsSearch
+{	
+	width: 159px;
+	background-color: #F3D798;
+
+}	
+
+.tdNewsSearchBody
+{
+	padding-right: 10px;
+	font-family: Traditional Arabic;
+	font-size: 12pt;
+	font-weight: bold;	
+	color:Black;
+	text-decoration: none;
+}
+
+.lstGateSearch
+{
+     font-family: Arabic Transparent;
+     font-size: 9pt;
+     font-weight: bold;
+     width: 120px;
+} 
+/*Start TimeTable*/
+/*.TimeTableTopHeaderBG
+{
+	background-color: #FFB200;
+	height          : 14px;
+}
+.TimeTableTopHeaderBG2
+{
+	background-color: #FAE29C;
+	height          : 6px;
+}
+.TimeTableTopHeaderBG3
+{
+	background-color: #DBB232;
+	height          : 1px;
+}
+.TimeTableHeaderBG
+{
+	background-color: #F4DCA6;
+}
+.TimeTableFooterBG
+{
+	background-color : #EBB700;
+}
+.daysStyle
+{
+	height: 22px;
+	line-height: 22px;
+	padding-bottom:-5px;
+	margin-bottom: -20px;
+}
+.TimeTableDateText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	height: 21px;
+	line-height: 21px;
+	vertical-align : sub ;
+	padding-left: 30px;
+}
+.TimeTableDateTab
+{
+	margin-right: 40px;
+}
+.TimeTableDescText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	padding-right : 10px;
+	height: 21px;
+	line-height: 21px;
+	vertical-align : baseline;
+}
+.TimeTableViewDescText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	text-align  : center;
+	
+}
+.GMTText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	text-align  : center;
+	vertical-align :super ;
+	
+}
+.maccaText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+	text-align  : center;
+}
+.TimeTableScrollStyle
+{
+	overflow : auto;
+	scrollbar-track-color : #EFCF85;
+	scrollbar-darkshadow-color:#EFCF85;
+	scrollbar-shadow-color :#D49B00;
+	scrollbar-highlight-color :#D49B00;
+	scrollbar-face-color : white;
+	scrollbar-base-color :#EFCF85;
+	scrollbar-arrow-color :#D49B00;
+}
+.promoText
+{
+	FONT-SIZE: 11pt;
+	font-weight: bold;
+	FONT-FAMILY: Arabic Transparent;
+}
+.promoLink
+{
+	FONT-SIZE: 11pt;
+	font-weight: normal;
+	FONT-FAMILY: Arabic Transparent;
+	margin-right: 6px;
+}*/
+/*End TimeTable*/
+
+.pageLink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    FONT-FAMILY: 'Arabic Transparent';
+    text-decoration : none;
+    COLOR: #0000AA;
+    background-color: #E7EBBD;
+    border-color : #CCCC99;
+    border-width : 1 ;
+  
+}
+.ConfigureBtnWidth
+{
+	width : 150px;
+}
+
+.MultiMediaTitle
+{
+	font-family: Arabic Transparent;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0035FC;
+	text-align: right;
+}
+.MultiMediaSummary
+{
+	font-family: Arabic Transparent;
+	font-size: 15px;
+	font-weight: normal;
+	color: #000000;
+	text-align: right;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+	line-height: normal;
+}
+
+.MultiMediaDate
+{
+	font-family: Arabic Transparent;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-align: right;
+	font-variant: normal;
+	text-transform: none;
+	font-style: normal;
+	line-height: normal;
+}
+a.lnkMediaServices 
+{
+	font-family: Arabic Transparent;
+	font-size: 13px;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+
+.txtDisabled
+{
+	background-color:Gainsboro;
+}
+
+.txtEnabled
+{
+	background-color:white;
+}
+
+.buttons
+{
+	FONT-SIZE: 13pt;
+	FONT-FAMILY: Arabic Transparent;
+	COLOR: black;
+    background-color: #F5F6F1;
+    border-color : #CCCC99;
+    border-width : 1 ;
+	width: 65px;
+	height: 22px;
+	text-decoration : none;
+}
+
+.archiveSearchTRhdrC
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #EBEBEB;
+    COLOR: #000000;
+    text-align:center
+
+}
+
+.archiveNewsBSearchTRhdrC
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #C9D9B4;
+    COLOR: #000000;
+    text-align:center
+
+}
+
+.archiveSearchTRhdrR
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #EBEBEB;
+    COLOR: #000000;
+    text-align:right;
+    line-height:25px;
+    padding-right: 3px;
+    
+
+}
+.archiveMonthHeader
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #D9D9D9;
+    COLOR: #000000;
+    line-height:25px;
+    padding-right: 3px;
+}
+
+.archiveProgTbl
+{
+	
+  border-style : solid;
+  border-width : 1;
+  border-color : #D9D9D9;
+   
+}
+
+.archiveNewsBTbl
+{
+		border:solid 0 #CADAB6;
+}
+.newsSpacer
+{
+	height: 1px;
+	background-color: #C9D9B4
+}
+.archiveNewsBHeader
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	line-height : 25px;
+	padding-right: 5px;
+    COLOR: #000000;
+}
+
+.archiveNewsBHeader2
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #E2EBD6;
+	line-height : 25px;
+	padding-right: 5px;
+    COLOR: #000000;
+}
+
+.archiveRepBHeader
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #EED8AE;
+	line-height : 25px;
+	padding-right: 5px;
+    COLOR: #000000;
+}
+
+.archiveRepBHeader2
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #EED8AE;
+	line-height : 25px;
+	padding-right: 5px;
+    COLOR: #000000;
+}
+.archiveRepBHeader3
+{
+	FONT-SIZE: 12pt;
+	font-weight: bold;
+	FONT-FAMILY:Arabic Transparent;
+	BACKGROUND-COLOR: #FFE8BF;
+	line-height : 25px;
+	padding-right: 5px;
+    COLOR: #000000;
+}
+
+.archiveRepBTbl
+{
+		border-style: solid;
+		border-width: 1;
+		border-color: #E1CCA0;
+}
+
+.SearchRepRes
+{
+	FONT-SIZE: 11pt;
+	font-weight:bold;
+	FONT-FAMILY:Arabic Transparent;
+    COLOR: #000000;
+	text-align:right;
+	vertical-align:top;
+	line-height: 20px;
+	BORDER-BOTTOM: #E0E0E0 1px solid;
+	text-decoration:none;
+}
+
+.progSearchTbl
+{
+	background-color: #EBEBEB;
+	padding-right:10px;
+	padding-left: 10px;
+	
+}
+
+.progRepTbl
+{
+	background-color: #FFE8BF;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.lstProgSearch
+{
+     font-family: Arabic Transparent;
+     font-size: 10pt;
+     font-weight: bold;
+     width: 120px;
+} 
+
+.lstRepSearch
+{
+     font-family: Arabic Transparent;
+     font-size: 10pt;
+     font-weight: bold;
+     width: 90px;
+} 
+.searchNewsBTbl
+{
+	padding-bottom:10px;
+}
+
+.innerTBL
+{
+border-style: solid ;
+border-width: 1;
+border-color: #CAD9B4;
+		
+}
+
+.lblSubText3
+{
+	font-family: Arabic Transparent	;
+	font-weight: Bold; 
+	font-size: 11pt; 
+	line-height: 20px;
+	/*padding-right: 10px;*/
+}
+a.TitleArchive
+{
+	font-family:Arabic Transparent;
+	font-size: 12pt; 
+	text-decoration: none;
+	font-weight:bold;
+	color: blue;
+	text-align:right;
+	padding-left: 5px;
+}
+
+.DateArchiveHeader
+{	
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	text-indent: 10px;
+	color: black;
+	BACKGROUND-COLOR: #E2EBD6;
+	text-align:center;
+}
+
+.DateRepArchiveHeader
+{	
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	text-indent: 10px;
+	color: black;
+	BACKGROUND-COLOR: #ffe8bf;
+	text-align:center
+}
+.DateArchive
+{	
+	font-family: Arabic Transparent;
+	font-size: 10pt;
+	font-weight: bold;
+	text-indent: 10px;
+	color: black;
+	text-align:center;
+}
+.Voters
+{	
+	font-family: Arabic Transparent;
+	font-size: 12pt;
+	font-weight: bold;
+	color: black;
+}
+
+.bdytitle2
+{
+	font-family: Arabic Transparent;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0035FC;
+	text-align: left;
+}
+
+.bdytitle2 a
+{
+	font-family: Arabic Transparent;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0035FC;
+	text-decoration: none;
+	}	
+
+.MediaVoteHeadline
+{
+	font-family: Arabic Transparent;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	
+}
+
+.MediaVoteHeadline2
+{
+	font-family: Arabic Transparent;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	
+}
+
+.bdytitle3
+{
+	font-family: Arabic Transparent;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0035FC;
+}
+
+.bdytitle3 a
+{
+	font-family: Arabic Transparent;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0035FC;
+	text-decoration: none;
+	}	
+	
+.authors
+{
+	font-family:Arabic Transparent;
+	font-size: 14px;
+	font-weight:bold;
+}
+.authorDesc
+{
+	font-family:Arabic Transparent;
+	font-size: 14px;
+	font-weight:normal;
+}
+
+.dropDownBg {
+	background-color: #999999;
+}
+.dropDownBody {
+	border: 1px solid #6A6A6A;
+}
+.dropDownBodyBg{
+	background-color: #FFFFFF;
+	background-image: url(/Portal/KServices/images/Header/bodyBgImg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-attachment: fixed;
+}
+.dropDownSites
+{
+	font-family: AljazeeraBoldExtdOf;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}

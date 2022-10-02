@@ -1,0 +1,17 @@
+/*
+	bbc.com core styles
+	version: $Id: adverts_blq.css,v 1.17 2009/01/05 11:11:17 chrisd08 Exp $
+*/
+#bbccom_leaderboard{height:110px;width:728px;text-align:center;color: #ffffff;}
+#bbccom_skyscraper{position:absolute;top:156px;left:770px;width:160px;height:600px;text-align:center;}
+#bbccom_bottom{height:71px;width:470px;text-align:center;}
+#bbccom_button{height:255px;width:120px;}
+#bbccom_mpu{width:300px;}
+
+.moduleAdvertContent {height:31px;padding:6px 10px;cursor:default;}
+.moduleAdvertContent a, .moduleAdvertContent a img {float:left;}
+
+.bbccom_display_none{display:none;}
+div.bbccom_text{text-align:right;font-family:arial;font-size:9px;text-transform:uppercase;letter-spacing:0.2em;display:block;}
+div.bbccom_module_adlabel{width:180px;float:left;margin:6px 10px 0 0;color:#666;font-family:verdana,helvetica,arial,sans-serif;letter-spacing:normal;font-size:0.8em;}
+.adimg{border-style:none;}

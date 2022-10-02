@@ -1,0 +1,139 @@
+ 
+BODY {
+	BACKGROUND-COLOR: #dde5d9
+}
+#header {width:700px; height:50PX;margin-right:10px;
+font-family: Arial; font-size:25px; font-weight: bold;color:#fff;
+padding-right:20px;padding-top:10px;
+BACKGROUND: #708090
+}
+#wrapper {
+	WIDTH:740PX;PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+.box {
+BORDER-RIGHT: #ced4ca 3px solid;
+PADDING: 8px;
+BORDER-TOP: #ced4ca 1px solid; 
+FLOAT:RIGHT;
+BORDER-LEFT: #ced4ca 1px solid; 
+BORDER-BOTTOM: #ced4ca 3px solid;
+BACKGROUND-COLOR: #fff;
+
+}
+#content {
+ MARGIN-LEFT:0PX;FLOAT:LEFT;FONT: 16px arial;FONT-WEIGHT: bold;WIDTH: 516px; PADDING-TOP: 0px
+}
+#sidebar-1 {
+	 MARGIN-RIGHT:5PX;WIDTH:170px;
+}
+#sidebar-2 {
+	MARGIN-RIGHT:5PX;WIDTH:170px;clear:both;
+}
+#sidebar-3 {
+	MARGIN-RIGHT:5PX;WIDTH:170px;clear:both;
+}
+H1 {
+	FONT-FAMILY: Arial
+}
+H2 {
+	FONT-FAMILY: Tahoma, Arial, sans-serif
+}
+H3 {
+	FONT-FAMILY: "Lucida Grande", Tahoma, Arial, sans-serif
+}
+H1 {
+	DISPLAY: none; MARGIN: 0px; TEXT-INDENT: -9000px
+}
+H2 {
+	MARGIN-TOP: 25px; FONT-SIZE: 16px; MARGIN-BOTTOM: 0px; COLOR: #63b4cd
+
+}
+H2 A {
+	COLOR: #63b4cd
+}
+H3 {
+	FONT-SIZE: 14px; COLOR: #666
+}
+P {
+	MARGIN: 0.5em 0px 1.5em; LINE-HEIGHT: 1.5em
+}
+
+UL {
+	MARGIN: 1.2em 0px 1.2em 2em; LINE-HEIGHT: 1.5em;
+}
+UL LI {
+	MARGIN-BOTTOM: 0.2em; FONT-FAMILY:Tahoma; FONT-size: 12px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	COLOR: #8ab459; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #8ab459; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #777
+}
+
+INPUT {
+	BORDER-RIGHT: #c1c0b5 1px solid; BORDER-TOP: #c1c0b5 1px solid; FONT-SIZE: 1em; BORDER-LEFT: #c1c0b5 1px solid; COLOR: #555; BORDER-BOTTOM: #c1c0b5 1px solid; FONT-FAMILY: "Lucida Sans Unicode", Tahoma, Arial, sans-serif; BACKGROUND-COLOR: #fafaf0
+}
+TEXTAREA {
+	BORDER-RIGHT: #c1c0b5 1px solid; BORDER-TOP: #c1c0b5 1px solid; FONT-SIZE: 1em; BORDER-LEFT: #c1c0b5 1px solid; COLOR: #555; BORDER-BOTTOM: #c1c0b5 1px solid; FONT-FAMILY: "Lucida Sans Unicode", Tahoma, Arial, sans-serif; BACKGROUND-COLOR: #fafaf0
+}
+SELECT {
+	BORDER-RIGHT: #c1c0b5 1px solid; BORDER-TOP: #c1c0b5 1px solid; FONT-SIZE: 1em; BORDER-LEFT: #c1c0b5 1px solid; COLOR: #555; BORDER-BOTTOM: #c1c0b5 1px solid; FONT-FAMILY: "Lucida Sans Unicode", Tahoma, Arial, sans-serif; BACKGROUND-COLOR: #fafaf0
+}
+.sidebar H2 {
+	PADDING-RIGHT: 10px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 1.1em; BACKGROUND: url(images/arrow.gif) no-repeat right center; PADDING-BOTTOM: 0px; MARGIN: 1.2em 0px 0.6em; COLOR: #63b4cd; PADDING-TOP: 0px
+}
+.sidebar UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.sidebar UL UL {
+	BORDER-TOP: #dee4da 1px solid; MARGIN: 1em 0px 1.5em
+}
+.sidebar UL UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #dee4da 1px solid
+}
+.sidebar UL UL LI A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; PADDING-BOTTOM: 2px; MARGIN: 0px 0px 0px -10px; PADDING-TOP: 2px
+}
+.sidebar UL UL LI A:hover {
+	BACKGROUND-COLOR: #f3f3f3
+}
+.post {
+	BORDER-BOTTOM: #dee4da 1px solid
+}
+.postmeta {
+	MARGIN-TOP: 0px; FONT-SIZE: 0.9em; COLOR: #999; PADDING-TOP: 1px
+}
+.postentry IMG {
+	BORDER-RIGHT: #ced4ca 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ced4ca 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 0px 10px 10px 0px; BORDER-LEFT: #ced4ca 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #ced4ca 1px solid
+}
+.postentry .icon {
+	PADDING-RIGHT: 6px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.permalink {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 14px; BACKGROUND: url(images/permalink.gif) no-repeat left center; PADDING-BOTTOM: 0px; MARGIN: 0px 1.8em 0px 0px; PADDING-TOP: 0px
+}
+.commentslink {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; BACKGROUND: url(images/commentslink.gif) no-repeat left center; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+
+#search-wrapper {
+	PADDING-TOP: 10px
+}
+#footer{ clear:both;margin-right:10px; padding:5px;BORDER-RIGHT: #ced4ca 3px solid;
+PADDING: 10px;
+BORDER-TOP: #ced4ca 1px solid; 
+BORDER-LEFT: #ced4ca 1px solid; 
+BORDER-BOTTOM: #ced4ca 3px solid;
+width:700px;height:auto;background-color:#fff;font-size:11px; font-family: Tahoma;font-weight:normal;color:#738294; text-align:center;}
+#footer a {font-family: tahoma; font-weight: normal;color: #63B6CE;text-decoration: none;}
+#footer a:hover{text-decoration: underline;}
